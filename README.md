@@ -1,4 +1,4 @@
-# BackEndInternTask
+# Google Calender
 1) API Endpoint: auth.py
 Description: This endpoint initiates the OAuth2 authentication flow with Google.
 Method: POST
